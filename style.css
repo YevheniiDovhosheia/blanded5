@@ -1,10 +1,12 @@
-
 .section-title {
   color: aqua;
 }
 
 .title {
-    font-size: 16px;
-    color: blue;
+  font-size: 16px;
+  color: blue;
 }
 
+.footer {
+  background-color: aquamarine;
+}
